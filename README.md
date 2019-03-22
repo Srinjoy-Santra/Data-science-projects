@@ -1,6 +1,6 @@
 # Project Overview
 
-These are my data science projects done from various online courses.
+These are my data science projects done from various online sources and datasets.
 
 ## Projects
 
