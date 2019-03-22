@@ -3,7 +3,7 @@
 
 ## The various models used
 
-![Comparative dataframe](https://github.com/Srinjoy-Santra/Data-science-projects/tree/master/Restaurant%20Reviews%20NLP/nlp.png)
+![Comparative dataframe](https://github.com/Srinjoy-Santra/Data-science-projects/tree/master/Restaurant%20Reviews%20NLP/nlp.PNG)
 
 To understand the terminolgies, see below.
 
