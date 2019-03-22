@@ -23,7 +23,7 @@
 
 ## The various models used
 
-![Comparative dataframe](/nlp.PNG)
+![Comparative dataframe](nlp.PNG)
 
 To understand the terminolgies, see below.
 
