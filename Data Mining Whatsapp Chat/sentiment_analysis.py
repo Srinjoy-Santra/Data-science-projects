@@ -56,5 +56,9 @@ def analyze(name):
     plt.show()
 
 
-filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat with Ipsita Haldar"
+filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(1)"
+analyze(filename)
+filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(2)"
+analyze(filename)
+￼￼filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(3)"
 analyze(filename)

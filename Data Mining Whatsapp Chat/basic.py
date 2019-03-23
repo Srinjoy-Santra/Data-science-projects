@@ -13,11 +13,13 @@ def findBasics(name):
     wc=0
     for line in linesList:
         wc=wc+len(str(line).split(" "))
-    print(wc)
+    print("Word count=",wc)
+    
+   
 
-
-
-
-
-filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat with Ipsita Haldar"
+filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(1)"
+findBasics(filename)
+filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(2)""
+findBasics(filename)
+￼￼filename = r"C:\Users\nEW u\Downloads\WhatsApp Chat(3)"
 findBasics(filename)
